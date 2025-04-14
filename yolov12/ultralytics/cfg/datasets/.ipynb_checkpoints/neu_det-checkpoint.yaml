@@ -1,0 +1,6 @@
+train: /workspace/NEUDET_split/train/images
+val: /workspace/NEUDET_split/val/images
+test: /workspace/NEUDET_split/test/images
+
+nc: 6
+names: [crazing, inclusion, patches, pitted_surface, rolled_in_scale, scratches]
